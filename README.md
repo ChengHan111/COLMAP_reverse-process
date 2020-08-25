@@ -13,3 +13,7 @@ dense 3D points cloud in Meshlab if we want to pick the essential object by our 
 3D point colors modeled in application named 'blender'. The result after using 'blender' is provided named
 'tablewithcube'. Notice that the cube is simply added through 'blender' just for fun. The real cube is added
 in the txt files and then tested.
+
+
+P.S the blender files and original images are not included, therefore you need to run COLMAP yourself in order to
+get your own 3D point cloud txt file. COLMAP can be find directly in Github.
